@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * EJERCICIO 06: Programa Java que:
+ * declare una variable B de tipo entero y asígnale un valor.
+ * A continuación muestra un mensaje indicando si el valor de B es positivo o negativo.
+ * Consideraremos el 0 como positivo.
+ * Utiliza el operador condicional (? : ) dentro del println para resolverlo.
  */
 package cac.java.tdp;
 
@@ -15,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!");
+        
     }
     
 }
