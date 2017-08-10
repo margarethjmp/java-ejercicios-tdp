@@ -15,6 +15,8 @@ package cac.java.tdp;
  *
  * @author Rhaynel Parra Aguiar <mail@rhynl.io>
  */
+
+
 public class Main {
 
     /**
@@ -22,6 +24,27 @@ public class Main {
      */
     public static void main(String[] args) {
         
+        int N;
+        double A;
+        char C;
+        double Suma;
+        double Resta;
+        double J;
+        
+    
+        N=8;
+        A=3.14;
+        C='M';
+        J=(byte)C;
+       
+        Suma=N+A;
+        Resta=A-N;
+        
+        System.out.println("El valor de la suma es: " +Suma);
+        System.out.println("El valor de la resta es: " +Resta);
+        System.out.println("El valor numerico de C es: " +J);
+     
+ 
     }
     
 }
