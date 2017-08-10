@@ -1,7 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * EJERCICIO 02: Programa java que realice lo siguiente:
+ *  declarar dos variables X e Y de tipo int,
+ *  dos variables N y M de tipo double y
+ *  asigna a cada una un valor. A continuación realiza y muestra por pantalla
+ *  una serie de operaciones entre ellas. 
  */
 package cac.java.tdp;
 
@@ -15,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!");
+        
     }
     
 }
