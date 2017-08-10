@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * EJERCICIO 03: Programa Java que:
+ * declare una variable entera N y asígnale un valor.
+ * A continuación escribe las instrucciones que realicen lo siguiente:
+ * Incrementar N en 77, Decrementarla en 3, Duplicar su valor. 
  */
 package cac.java.tdp;
 
@@ -15,7 +16,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!");
+        
     }
     
 }
