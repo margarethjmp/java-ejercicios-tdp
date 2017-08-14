@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Ejercicio 26: Programa que lea un carácter y compruebe si es un
+ * número (Carácter entre '0' y '9'). 
  */
 package cac.java.tdp;
 
@@ -15,7 +14,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo!!");
+        
     }
     
 }
